@@ -38,6 +38,4 @@
 * **評估指標**：LPIPS, Sobolev Edge Loss
 * **展示介面**：Gradio
 
-## 📂 檔案說明
-* `main.py`：模型訓練與推理的主要程式碼（包含 Generator, Discriminator 定義）。
-* `Project_Slides.pdf`：完整的專題報告簡報，包含詳細理論推導與更多測試結果。
+
